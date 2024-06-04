@@ -1,0 +1,62 @@
+[
+  {
+    "employeeID": 1,
+    "name": "John Doe",
+    "salary": 50000,
+    "department": "Engineering"
+  },
+  {
+    "employeeID": 2,
+    "name": "Jane Smith",
+    "salary": 60000,
+    "department": "Sales"
+  },
+  {
+    "employeeID": 3,
+    "name": "Alice Johnson",
+    "salary": 70000,
+    "department": "Marketing"
+  },
+  {
+    "employeeID": 4,
+    "name": "Bob Brown",
+    "salary": 80000,
+    "department": "HR"
+  },
+  {
+    "employeeID": 5,
+    "name": "Charlie White",
+    "salary": 90000,
+    "department": "IT"
+  },
+  {
+    "employeeID": 6,
+    "name": "David Green",
+    "salary": 100000,
+    "department": "Finance"
+  },
+  {
+    "employeeID": 7,
+    "name": "Emily Black",
+    "salary": 110000,
+    "department": "Operations"
+  },
+  {
+    "employeeID": 8,
+    "name": "Frank Red",
+    "salary": 120000,
+    "department": "Customer Service"
+  },
+  {
+    "employeeID": 9,
+    "name": "Grace Blue",
+    "salary": 130000,
+    "department": "Product Development"
+  },
+  {
+    "employeeID": 10,
+    "name": "Helen Yellow",
+    "salary": 140000,
+    "department": "Research & Development"
+  }
+]
